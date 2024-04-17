@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+h1 {
+    color: coral;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+#main {
+    border-style: dotted dashed solid double;
+    border-color: chocolate;
+    background-color:ivory;
+    text-indent: 15px;
+}
+
+.highlight {
+    background-color:lightblue;
+    padding: 10px;
+}
+
+.category1, .category2 {
+    color: plum;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+}
+
+p {
+    color:darkgreen;
+}
+
+footer {
+    font-size: 10px;
+}
+
+* {
+    font-family: Tahoma, sans-serif;
+}
